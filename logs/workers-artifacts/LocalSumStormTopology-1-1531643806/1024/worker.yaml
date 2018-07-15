@@ -1,0 +1,4 @@
+worker-id: b0a16df0-9183-48d2-a15f-4f78936aca68
+logs.users: []
+logs.groups: []
+topology.submitter.user: cancan
